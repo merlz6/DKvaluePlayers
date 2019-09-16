@@ -1,6 +1,6 @@
 # dkvalueplayers
 
-Find value draft kings players - NodeJS - information imported through CSV
+Find value draft kings players - Javascript - information imported through CSV
 
 Requires npm install csv-parser
 
